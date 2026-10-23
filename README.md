@@ -44,9 +44,35 @@ I'm the kind of person who says "just one more fix" and looks up an hour later. 
 
 <div align="center">
 
+**AI / ML DOMAINS**
+
+![AI](https://img.shields.io/badge/AI-000000?style=flat-square) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-000000?style=flat-square) ![Data Analysis](https://img.shields.io/badge/Data_Analysis-000000?style=flat-square) ![Data Engineering](https://img.shields.io/badge/Data_Engineering-000000?style=flat-square) ![LLMs](https://img.shields.io/badge/LLMs-000000?style=flat-square) ![RAG](https://img.shields.io/badge/RAG-000000?style=flat-square) ![NLP](https://img.shields.io/badge/NLP-000000?style=flat-square) ![Embeddings](https://img.shields.io/badge/Embeddings-000000?style=flat-square) ![Vector Search](https://img.shields.io/badge/Vector_Search-000000?style=flat-square) ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-000000?style=flat-square)
+
 **AI / ML & DATA**
 
-<img src="https://skillicons.dev/icons?i=py,pandas,numpy,sklearn&theme=dark" alt="AI ML and Data" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+**DATA VISUALIZATION & BI**
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+
+**DATA ENGINEERING**
+
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 **DATABASES / RETRIEVAL**
 
