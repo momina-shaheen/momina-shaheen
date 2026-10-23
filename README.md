@@ -50,10 +50,7 @@ I'm the kind of person who says "just one more fix" and looks up an hour later. 
 
 **AI / ML & DATA**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+<img src="https://skillicons.dev/icons?i=py,pandas,numpy,sklearn,matplotlib&theme=light" alt="AI ML and Data" />
 
 **DATA VISUALIZATION & BI**
 
@@ -61,7 +58,6 @@ I'm the kind of person who says "just one more fix" and looks up an hour later. 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
 **DATA ENGINEERING**
@@ -76,13 +72,13 @@ I'm the kind of person who says "just one more fix" and looks up an hour later. 
 
 **DATABASES / RETRIEVAL**
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&theme=dark" alt="Databases" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&theme=light" alt="Databases" />
 
 `Vector Search` · `RAG` · `Chroma` · `pgvector`
 
 **CLOUD & TOOLS**
 
-<img src="https://skillicons.dev/icons?i=gcp,git,github,vscode&theme=dark" alt="Cloud and Tools" />
+<img src="https://skillicons.dev/icons?i=gcp,git,github,vscode&theme=light" alt="Cloud and Tools" />
 
 </div>
 
