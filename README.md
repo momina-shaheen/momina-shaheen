@@ -8,7 +8,7 @@
 
 <a href="https://github.com/momna-shaheen"><img src="https://skillicons.dev/icons?i=netlify&theme=dark" width="48" alt="Portfolio" /></a>
 &nbsp;
-<a href="https://www.linkedin.com/in/momina-shaheen"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="48" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/momina-shaheenn"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="48" alt="LinkedIn" /></a>
 &nbsp;
 <a href="https://github.com/momna-shaheen"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" alt="GitHub" /></a>
 &nbsp;
