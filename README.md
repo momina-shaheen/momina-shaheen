@@ -6,13 +6,13 @@
 
 <br/><br/>
 
-<a href="https://YOUR-PORTFOLIO-LINK"><img src="https://skillicons.dev/icons?i=netlify&theme=dark" width="48" alt="Portfolio" /></a>
+<a href="https://github.com/momna-shaheen"><img src="https://skillicons.dev/icons?i=netlify&theme=dark" width="48" alt="Portfolio" /></a>
 &nbsp;
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="48" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/momina-shaheen"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="48" alt="LinkedIn" /></a>
 &nbsp;
 <a href="https://github.com/momna-shaheen"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" alt="GitHub" /></a>
 &nbsp;
-<a href="mailto:YOUR-EMAIL"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="48" alt="Email" /></a>
+<a href="mailto:momina.shaheen11@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="48" alt="Email" /></a>
 
 </div>
 
