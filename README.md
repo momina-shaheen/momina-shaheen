@@ -6,11 +6,11 @@
 
 <br/><br/>
 
-<a href="https://github.com/momna-shaheen"><img src="https://skillicons.dev/icons?i=netlify&theme=dark" width="48" alt="Portfolio" /></a>
+<a href="https://github.com/momina-shaheen"><img src="https://skillicons.dev/icons?i=netlify&theme=dark" width="48" alt="Portfolio" /></a>
 &nbsp;
 <a href="https://www.linkedin.com/in/momina-shaheenn"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="48" alt="LinkedIn" /></a>
 &nbsp;
-<a href="https://github.com/momna-shaheen"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" alt="GitHub" /></a>
+<a href="https://github.com/momina-shaheen"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" alt="GitHub" /></a>
 &nbsp;
 <a href="mailto:momina.shaheen11@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="48" alt="Email" /></a>
 
@@ -97,7 +97,7 @@ I'm the kind of person who says "just one more fix" and looks up an hour later. 
 | Project | What it does | Tech |
 |---|---|---|
 | **Financial & Market Intelligence Copilot** | AI research assistant that answers financial questions from company reports and database figures, with source citations | **[tech]** |
-| [csv-data-analysis-python](https://github.com/momna-shaheen/csv-data-analysis-python) | Analyzes CSV data using Pandas | Python, Pandas |
+| [csv-data-analysis-python](https://github.com/momina-shaheen/csv-data-analysis-python) | Analyzes CSV data using Pandas | Python, Pandas |
 | **[Project 3]** | **[one-line description]** | **[tech]** |
 
 ---
@@ -106,17 +106,17 @@ I'm the kind of person who says "just one more fix" and looks up an hour later. 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=momna-shaheen&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=momna-shaheen&layout=compact&theme=dark&hide_border=true" alt="Top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=momina-shaheen&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=momina-shaheen&layout=compact&theme=dark&hide_border=true" alt="Top languages" />
 
-<img src="https://streak-stats.demolab.com?user=momna-shaheen&theme=dark&hide_border=true" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=momina-shaheen&theme=dark&hide_border=true" alt="GitHub streak" />
 
 <br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/momna-shaheen/momna-shaheen/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/momna-shaheen/momna-shaheen/output/github-snake.svg" />
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/momna-shaheen/momna-shaheen/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/momina-shaheen/momina-shaheen/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/momina-shaheen/momina-shaheen/output/github-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/momina-shaheen/momina-shaheen/output/github-snake.svg" />
 </picture>
 
 </div>
